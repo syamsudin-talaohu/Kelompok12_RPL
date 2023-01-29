@@ -1,4 +1,4 @@
-# Aplikasi-Biro-Travel
-adalah aplikai info wisata dan pemesanan paket wisata.
+# Aplikasi-DesignKita
+adalah aplikasi DESIGN UI/UX
 
 impor database kemudian sesuaikan file koneksi database.
